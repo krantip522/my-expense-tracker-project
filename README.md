@@ -14,3 +14,12 @@ Edit Expenses: In-place editing with modal interface
 Delete Expenses: Safe deletion with confirmation dialogs
 Real-time Totals: Automatic calculation and display of total expenses
 Rich Data: Track category, amount, comments, and timestamps
+
+# Project Structure:-
+expense-tracker/
+│
+├── index.html          # Main application file
+├── README.md           # Project documentation
+└── assets/             # for additional assets
+    ├── screenshots/    # Application screenshots
+    └── icons/          # App icons
