@@ -119,14 +119,7 @@ The application uses **localStorage** for data persistence:
 - ✅ Firefox 55+
 - ✅ Safari 12+
 - ✅ Edge 79+
-
-### Key Technologies
-- **HTML5** - Semantic markup and form validation
-- **CSS3** - Modern styling with flexbox and gradients
-- **Vanilla JavaScript** - No frameworks, pure JS for maximum compatibility
-- **localStorage API** - Client-side data persistence
-- **Chart.js** - Interactive data visualization
-
+  
 ## 📱 Responsive Design
 
 The application is fully responsive and optimized for:
