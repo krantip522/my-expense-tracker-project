@@ -14,6 +14,12 @@ Edit Expenses: In-place editing with modal interface
 Delete Expenses: Safe deletion with confirmation dialogs
 Real-time Totals: Automatic calculation and display of total expenses
 Rich Data: Track category, amount, comments, and timestamps
+## User Experience
+Modern UI: Clean, professional interface with gradient backgrounds
+Responsive Design: Works perfectly on desktop, tablet, and mobile
+Tab Navigation: Intuitive tab-based interface for different functions
+Loading States: Smooth transitions and feedback messages
+Accessibility: Proper form labels and keyboard navigation
 
 # Project Structure:-
 expense-tracker/
