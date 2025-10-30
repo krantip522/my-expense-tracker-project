@@ -21,6 +21,25 @@ Tab Navigation: Intuitive tab-based interface for different functions
 Loading States: Smooth transitions and feedback messages
 Accessibility: Proper form labels and keyboard navigation
 
+## Quick Start
+Option 1: Direct Usage
+Download the HTML file
+Open it in any modern web browser
+
+Create an account or use demo credentials:
+Email: demo@example.com
+Password: password123
+Start tracking your expenses!
+
+Option 2: Local Development
+
+## Clone or download the project
+git clone <your-repo-url>
+
+## Navigate to project directory
+cd expense-tracker
+
+
 # Project Structure:-
 expense-tracker/
 │
